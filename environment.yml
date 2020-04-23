@@ -19,6 +19,4 @@ dependencies:
   - scikit-learn
   - scipy
   - spacy
-  - fastai2>=0.0.16
   - ipywidgets>=7.5.1
-  - nbdev>=0.2.12
