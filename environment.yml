@@ -13,7 +13,6 @@ dependencies:
   - requests
   - pyyaml
   - fastprogress>=0.1.22
-  - pillow
   - python>=3.6
   - pip
   - scikit-learn
@@ -21,3 +20,5 @@ dependencies:
   - spacy
   - ipywidgets>=7.5.1
   - fastai=1.0.60 
+  - pillow>=7.0.0
+  - packaging
