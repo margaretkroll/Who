@@ -1,7 +1,6 @@
 channels:
   - conda-forge
   - fastai
-  - fastai2
   - pytorch
   - defaults
 dependencies:
