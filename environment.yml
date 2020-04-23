@@ -22,3 +22,4 @@ dependencies:
   - fastai=1.0.60 
   - pillow>=7.0.0
   - packaging
+  - nvidia-ml-py3>=7.352.0
