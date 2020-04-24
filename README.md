@@ -1,8 +1,7 @@
 # Who
 Neural network trained to recognize the Doctor from Doctor Who (reboot only!). 
 
-Click AppMode at the top for GUI interface:<br>
-https://mybinder.org/v2/gh/margaretkroll/Who/master?filepath=docClassifier.ipynb
+https://mybinder.org/v2/gh/margaretkroll/Who/master?urlpath=%2Fapps%2FdocClassifier.ipynb
 
 
 Used the following tools:<br>
