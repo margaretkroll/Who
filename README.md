@@ -1,5 +1,5 @@
 # Who
-Neural network trained to recognize the Doctor from Doctor Who (reboot only!). 
+Neural network trained to recognize the Doctor from Doctor Who (reboot only!). This will also tell you which Doctor you look most like.
 
 https://mybinder.org/v2/gh/margaretkroll/Who/master?urlpath=%2Fapps%2FdocClassifier.ipynb
 
